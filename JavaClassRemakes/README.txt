@@ -1,0 +1,1 @@
+In this folder are remakes of some classes we used when we learnt java in school, whenever we learnt a new class instead of importing the ones the school gave us I decided to remake each of them to understand them better.
